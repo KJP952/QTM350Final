@@ -35,8 +35,7 @@ BEGIN
             RAISE NOTICE 'Skipping problematic column name: %', col.column_name;
             CONTINUE;
         END IF;
-
-        -- Generate the new column name and execute the rename
+                -- Generate the new column name and execute the rename
         EXECUTE format(
             'ALTER TABLE education_data RENAME COLUMN "%s" TO %I',
             col.column_name,
@@ -44,8 +43,6 @@ BEGIN
         );
     END LOOP;
 END $$;
-
-
 
 
 /*markdown
@@ -86,3 +83,10 @@ END $$;
 
 DELETE FROM education_data
 WHERE "country code" IS NULL;
+
+/*markdown
+## Saving the Data
+*/
+
+--Comand line commands to save csv files
+\COPY education_data TO /path/to/file/WDI_Data_Cleaned.csv CSV HEADER;

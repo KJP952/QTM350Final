@@ -3,6 +3,36 @@ SELECT * FROM "WDI_Data" LIMIT 10;
 -- YAY WE CAN!! IT WORKED :)
 
 /*markdown
+## Removing the bracket sections in the year columns
+*/
+
+-- dropping the brackets in years so that only the year itself remains
+DO $$
+DECLARE
+    column_record RECORD;  -- Declare a record variable for the column information
+    new_column_name TEXT;
+BEGIN
+    -- Loop through each column that needs renaming
+    FOR column_record IN
+        SELECT column_name
+        FROM information_schema.columns
+        WHERE table_name = 'wdi_data_long'
+        AND column_name LIKE '%[%'  -- Only select columns with square brackets
+    LOOP
+        -- Generate the new column name by removing the brackets and content inside
+        new_column_name := REGEXP_REPLACE(column_record.column_name, '\s?\[.*\]', '', 'g');
+        
+        -- Execute the ALTER TABLE to rename the column
+        EXECUTE format(
+            'ALTER TABLE wdi_data_long RENAME COLUMN "%s" TO "%s"',
+            column_record.column_name,
+            new_column_name
+        );
+    END LOOP;
+END $$;
+
+
+/*markdown
 ### Turning the Data from wide to long data. Stores it in a table wdi_data_long.
 */
 CREATE TABLE wdi_data_long AS
@@ -113,6 +143,37 @@ WHERE value = '..';
 
 DELETE FROM wdi_data_long
 WHERE value IS NULL;
+
+-- Updating column names to snake case
+DO $$
+DECLARE
+    col RECORD;
+BEGIN
+    -- Debug: Check the column names retrieved
+    RAISE NOTICE 'Columns in table: %',
+        (SELECT string_agg(column_name, ', ')
+         FROM information_schema.columns
+         WHERE table_name = 'wdi_data_long');
+    
+    FOR col IN
+        SELECT column_name
+        FROM information_schema.columns
+        WHERE table_name = 'wdi_data_long'
+    LOOP
+        -- Skip empty or invalid column names
+        IF col.column_name IS NULL OR col.column_name = '' THEN
+            RAISE NOTICE 'Skipping problematic column name: %', col.column_name;
+            CONTINUE;
+        END IF;
+                -- Generate the new column name and execute the rename
+        EXECUTE format(
+            'ALTER TABLE wdi_data_long RENAME COLUMN "%s" TO %I',
+            col.column_name,
+            lower(regexp_replace(col.column_name, '([a-z])([A-Z])', '\1_\2', 'g'))
+        );
+    END LOOP;
+END $$;
+
 
 --Comand line commands to save csv files
 \COPY wdi_data_long TO /path/to/file/wdi_data_long.csv CSV HEADER;
