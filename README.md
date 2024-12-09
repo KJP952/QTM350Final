@@ -1,4 +1,4 @@
-#**QTM 350 Final Project - School Enrollment Trends Analysis**
+# **QTM 350 Final Project - School Enrollment Trends Analysis**
 
 ## **Project Overview**
 This project analyzes global school enrollment trends using data from the World Bank's World Development Indicators (WDI). The analysis focuses on primary, secondary, and tertiary education levels, exploring:
