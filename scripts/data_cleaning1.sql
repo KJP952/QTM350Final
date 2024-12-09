@@ -137,13 +137,14 @@ FROM wdi_data_long
 WHERE value IS NULL;
 
 
--- Delted rows that don't have a value
+-- Deleted rows that don't have a value
 DELETE FROM wdi_data_long
 WHERE value = '..';
 
 DELETE FROM wdi_data_long
 WHERE value IS NULL;
 
+<<<<<<< Updated upstream
 -- Updating column names to snake case
 DO $$
 DECLARE
@@ -176,6 +177,9 @@ END $$;
 
 
 --Comand line commands to save csv files
+=======
+--Command line commands to save csv files
+>>>>>>> Stashed changes
 \COPY wdi_data_long TO /path/to/file/wdi_data_long.csv CSV HEADER;
 
 --group countries by regions
@@ -199,7 +203,7 @@ SELECT
     END AS region
 FROM wdi_data_long;
 
---Comand line commands to save csv files
+--Command line commands to save csv files
 \COPY wdi_data_with_region TO /path/to/file/wdi_data_with_region.csv CSV HEADER;
 
 --group countries by secondarycode
@@ -213,7 +217,7 @@ SELECT country_name,
 FROM wdi_data_long
 WHERE series_code = 'SE.SEC.ENRR';
 
---Comand line commands to save csv files
+--Command line commands to save csv files
 \COPY wdi_data_by_secondarycode TO /path/to/file/wdi_data_by_secondarycode.csv CSV HEADER;
 
 --group countries by primarycode
@@ -227,7 +231,7 @@ SELECT country_name,
 FROM wdi_data_long
 WHERE series_code = 'SE.PRM.ENRR';
 
---Comand line commands to save csv files
+--Command line commands to save csv files
 \COPY wdi_data_by_primarycode TO /path/to/file/wdi_data_by_primarycode.csv CSV HEADER;
 
 --group countries by tertiarycode
@@ -241,5 +245,5 @@ SELECT country_name,
 FROM wdi_data_long
 WHERE series_code = 'SE.TER.ENRR';
 
---Comand line commands to save csv files
+--Command line commands to save csv files
 \COPY wdi_data_by_tertiarycode TO /path/to/file/wdi_data_by_tertiarycode.csv CSV HEADER;

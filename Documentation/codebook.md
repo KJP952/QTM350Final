@@ -50,6 +50,11 @@
     - `SE.PRM.ENRR`: Primary school enrollment rate.
     - `SE.TER.ENRR`: Tertiary school enrollment rate.
 
+---
 
+### Relationships:
+- `WDI_Data` → `wdi_data_long`: Data is cleaned and transformed from wide to long format.
+- `wdi_data_long` → `wdi_data_with_region`: `region` attribute is added based on country codes.
+- `wdi_data_long` → Subset tables (`wdi_data_by_secondarycode`, `wdi_data_by_primarycode`, `wdi_data_by_tertiarycode`): Filtered based on specific series codes.
 
 
