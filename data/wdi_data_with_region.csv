@@ -1,665 +1,665 @@
 country_name,country_code,series_name,series_code,year,value,region
-Afghanistan,AFG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,54.235481262207,South Asia
-Afghanistan,AFG,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,8.31087017059326,South Asia
-Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,109.115516662598,South Asia
-India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,75.3183288574219,South Asia
-India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,25.991325378418,South Asia
-India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,111.584541320801,South Asia
-Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,33.214222759511,South Asia
-Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,8.92643165588379,South Asia
-Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,74.3189018516843,South Asia
-Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,103.321380615234,Europe & Central Asia
-Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,65.5507125854492,Europe & Central Asia
-Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,105.770576477051,Europe & Central Asia
-Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,132.451354980469,Europe & Central Asia
-Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,81.3143615722656,Europe & Central Asia
-Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,101.176940917969,Europe & Central Asia
-France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,103.425827026367,Europe & Central Asia
-France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,61.5104789733887,Europe & Central Asia
-France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,101.280349731445,Europe & Central Asia
-Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,98.9817123413086,Europe & Central Asia
-Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,99.8547286987305,Europe & Central Asia
-Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,95.1305313110352,Europe & Central Asia
-Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,93.5339965820312,Europe & Central Asia
-Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,51.0950393676758,Europe & Central Asia
-Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,36.0622482299805,Middle East & North Africa
-Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,111.686698913574,Middle East & North Africa
-Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,96.3290405273438,Middle East & North Africa
-Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,62.1056289672852,Middle East & North Africa
-Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,97.2882995605469,Middle East & North Africa
-Tunisia,TUN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,85.8415222167969,Middle East & North Africa
-Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,33.0825691223145,Middle East & North Africa
-Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,105.901481628418,Middle East & North Africa
-China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,43.8821907043457,East Asia & Pacific
-China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,97.9485015869141,East Asia & Pacific
-Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,86.1352400723449,East Asia & Pacific
-Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,35.9550590515137,East Asia & Pacific
-Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,109.671516584806,East Asia & Pacific
-Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,84.6881516846731,East Asia & Pacific
-Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,30.5253391265869,East Asia & Pacific
-Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,110.910578364806,East Asia & Pacific
-Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,101.813980102539,East Asia & Pacific
-Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,62.7269897460938,East Asia & Pacific
-Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,102.415283203125,East Asia & Pacific
-Liberia,LBR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,37.1417808532715,Sub-Saharan Africa
-Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,92.6740338678077,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,44.5147514343262,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,87.4456405639648,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,38.9089202880859,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,10.891300201416,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,96.1610717773438,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,102.422207446296,Sub-Saharan Africa
-Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,100.783058166504,Latin America & Caribbean
-Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,108.901779174805,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,87.7948913574219,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,96.3857269287109,Latin America & Caribbean
-Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,99.8654403686523,Latin America & Caribbean
-Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,83.6629791259766,Latin America & Caribbean
-Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,101.930870056152,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,53.089958190918,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,18.3490905761719,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,105.432632446289,Latin America & Caribbean
-Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,102.635528564453,Latin America & Caribbean
-Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,47.1568717956543,Latin America & Caribbean
-Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,110.316459655762,Latin America & Caribbean
-Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,90.5531005859375,North America
-Bermuda,BMU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,35.0966110229492,North America
-Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,104.431991577148,North America
-Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,111.855911254883,North America
-Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,67.2278594970703,North America
-Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,99.4990463256836,North America
-United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,96.9245376586914,North America
-United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,88.6268692016602,North America
-United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,99.6733779907227,North America
-Afghanistan,AFG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,53.2851409912109,South Asia
-Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,106.182418823242,South Asia
-India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,74.9483337402344,South Asia
-India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,27.2845668792725,South Asia
-India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,112.937843322754,South Asia
-Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,35.1742522238373,South Asia
-Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,8.61171054840088,South Asia
-Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,74.8479908789247,South Asia
-Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,102.440727233887,Europe & Central Asia
-Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,61.9608497619629,Europe & Central Asia
-Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,105.688652038574,Europe & Central Asia
-Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,133.795471191406,Europe & Central Asia
-Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,83.300407409668,Europe & Central Asia
-Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,100.882141113281,Europe & Central Asia
-France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,103.396041870117,Europe & Central Asia
-France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,62.7859306335449,Europe & Central Asia
-France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,101.989639282227,Europe & Central Asia
-Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,97.5203323364258,Europe & Central Asia
-Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,98.0328598022461,Europe & Central Asia
-Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,96.0522003173828,Europe & Central Asia
-Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,91.3377075195312,Europe & Central Asia
-Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,49.3609886169434,Europe & Central Asia
-Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,89.0534133911133,Europe & Central Asia
-Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,38.3309783935547,Middle East & North Africa
-Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,110.842269897461,Middle East & North Africa
-Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,96.3389511108398,Middle East & North Africa
-Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,60.8227882385254,Middle East & North Africa
-Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,97.7587738037109,Middle East & North Africa
-Tunisia,TUN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,86.7649536132812,Middle East & North Africa
-Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,33.0580787658691,Middle East & North Africa
-Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,106.111831665039,Middle East & North Africa
-China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,47.4353790283203,East Asia & Pacific
-China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,97.1544418334961,East Asia & Pacific
-Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,86.6409470884308,East Asia & Pacific
-Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,38.1037750244141,East Asia & Pacific
-Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,108.664395096777,East Asia & Pacific
-Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,88.7822877060453,East Asia & Pacific
-Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,33.0326499938965,East Asia & Pacific
-Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,109.361980599771,East Asia & Pacific
-Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,102.200416564941,East Asia & Pacific
-Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,62.4726600646973,East Asia & Pacific
-Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,102.41911315918,East Asia & Pacific
-Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,8.68379020690918,Unknown
-Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,119.14225769043,Unknown
-Liberia,LBR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,36.6230812072754,Sub-Saharan Africa
-Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,90.1829739124477,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,45.6085815429688,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,83.7498270610008,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,35.6580644885684,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,8.70392799377441,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,89.7453996477762,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,10.6008701324463,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,101.52105049101,Sub-Saharan Africa
-Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,93.761589050293,Latin America & Caribbean
-Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,102.335998535156,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,87.4978103637695,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,26.4131107330322,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,95.2253189086914,Latin America & Caribbean
-Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,100.921676635742,Latin America & Caribbean
-Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,86.4181137084961,Latin America & Caribbean
-Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,101.712509155273,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,54.9180488586426,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,22.0697193145752,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,104.099853515625,Latin America & Caribbean
-Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,100.920516967773,Latin America & Caribbean
-Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,48.4340400695801,Latin America & Caribbean
-Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,109.152183532715,Latin America & Caribbean
-Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,90.5220718383789,North America
-Bermuda,BMU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,31.9435291290283,North America
-Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,105.57536315918,North America
-Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,111.930450439453,North America
-Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,67.4031677246094,North America
-Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,99.8411407470703,North America
-United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,97.6525497436523,North America
-United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,88.8894119262695,North America
-United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,100.299911499023,North America
-Afghanistan,AFG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,53.5063400268555,South Asia
-Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,106.150283813477,South Asia
-India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,76.119987487793,South Asia
-India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,27.3043575286865,South Asia
-India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,119.512832641602,South Asia
-Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,36.3533679861146,South Asia
-Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,8.47824573516846,South Asia
-Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,79.8399701958586,South Asia
-Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,99.1707611083984,Europe & Central Asia
-Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,58.4884796142578,Europe & Central Asia
-Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,105.324783325195,Europe & Central Asia
-Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,131.441299438477,Europe & Central Asia
-Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,82.1714935302734,Europe & Central Asia
-Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,101.041496276855,Europe & Central Asia
-France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,103.308097839355,Europe & Central Asia
-France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,64.7276763916016,Europe & Central Asia
-France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,102.260429382324,Europe & Central Asia
-Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,97.0480880737305,Europe & Central Asia
-Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,94.7553405761719,Europe & Central Asia
-Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,97.3474578857422,Europe & Central Asia
-Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,88.7795104980469,Europe & Central Asia
-Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,49.911319732666,Europe & Central Asia
-Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,87.5895919799805,Europe & Central Asia
-Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,44.1052894592285,Middle East & North Africa
-Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,110.688102722168,Middle East & North Africa
-Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,96.7928085327148,Middle East & North Africa
-Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,60.4474411010742,Middle East & North Africa
-Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,97.1344833374023,Middle East & North Africa
-Tunisia,TUN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,91.1704330444336,Middle East & North Africa
-Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,31.186559677124,Middle East & North Africa
-Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,106.178161621094,Middle East & North Africa
-China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,49.7083587646484,East Asia & Pacific
-China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,97.3906173706055,East Asia & Pacific
-Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,87.1297234985317,East Asia & Pacific
-Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,40.4857482910156,East Asia & Pacific
-Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,106.215741316229,East Asia & Pacific
-Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,88.5644920884794,East Asia & Pacific
-Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,35.4757537841797,East Asia & Pacific
-Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,107.16207384874,East Asia & Pacific
-Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,101.167999267578,East Asia & Pacific
-Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,63.1872291564941,East Asia & Pacific
-Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,102.216911315918,East Asia & Pacific
-Angola,AGO,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,53.5814514160156,Unknown
-Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,9.66034030914307,Unknown
-Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,107.026964874435,Unknown
-Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,84.1511009480743,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,40.9102096557617,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,81.9161682128906,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,36.8475818475818,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,8.63794803619385,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,94.3621520996094,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,7.92610597610474,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,100.031076404742,Sub-Saharan Africa
-Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,102.390937805176,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,91.1691513061523,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,94.3311004638672,Latin America & Caribbean
-Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,101.488136291504,Latin America & Caribbean
-Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,88.8458862304688,Latin America & Caribbean
-Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,101.585189819336,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,54.3751907348633,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,16.1237926483154,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,103.013893127441,Latin America & Caribbean
-Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,102.569511413574,Latin America & Caribbean
-Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,48.3333396911621,Latin America & Caribbean
-Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,108.757843017578,Latin America & Caribbean
-Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,89.7045454545455,North America
-Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,104.325569490658,North America
-Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,111.770286560059,North America
-Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,69.5068588256836,North America
-Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,98.5470275878906,North America
-United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,98.7699279785156,North America
-United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,88.8350524902344,North America
-United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,101.362861633301,North America
-Afghanistan,AFG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,55.4021492004395,South Asia
-Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,106.129997253418,South Asia
-India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,74.5972671508789,South Asia
-India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,27.9090518951416,South Asia
-India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,117.868171691895,South Asia
-Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,35.8526761779574,South Asia
-Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,8.80055046081543,South Asia
-Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,78.8430583504664,South Asia
-Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,97.5743713378906,Europe & Central Asia
-Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,58.0177803039551,Europe & Central Asia
-Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,105.414970397949,Europe & Central Asia
-Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,130.324432373047,Europe & Central Asia
-Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,81.3220062255859,Europe & Central Asia
-Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,100.778030395508,Europe & Central Asia
-France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,103.756080627441,Europe & Central Asia
-France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,65.8022308349609,Europe & Central Asia
-France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,102.417221069336,Europe & Central Asia
-Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,96.0117721557617,Europe & Central Asia
-Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,91.3261489868164,Europe & Central Asia
-Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,97.40283203125,Europe & Central Asia
-Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,88.3843231201172,Europe & Central Asia
-Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,50.5108184814453,Europe & Central Asia
-Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,87.2723999023438,Europe & Central Asia
-Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,49.3779106140137,Middle East & North Africa
-Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,109.837707519531,Middle East & North Africa
-Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,96.2929916381836,Middle East & North Africa
-Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,59.0658683776855,Middle East & North Africa
-Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,96.9318695068359,Middle East & North Africa
-Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,31.0175304412842,Middle East & North Africa
-Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,106.57202911377,Middle East & North Africa
-China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,51.5827713012695,East Asia & Pacific
-China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,97.922119140625,East Asia & Pacific
-Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,84.5040588378906,East Asia & Pacific
-Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,35.4054260253906,East Asia & Pacific
-Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,103.182550401369,East Asia & Pacific
-Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,91.5816468000954,East Asia & Pacific
-Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,36.633861541748,East Asia & Pacific
-Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,105.634232183211,East Asia & Pacific
-Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,101.882888793945,East Asia & Pacific
-Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,62.4629783630371,East Asia & Pacific
-Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,102.254829406738,East Asia & Pacific
-Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,9.65568923950195,Unknown
-Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,122.235166180926,Unknown
-Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,79.9273019985662,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,11.5785512924194,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,76.4630992205934,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,8.52771759033203,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,99.8953880683389,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,8.54207611083984,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,98.5451030927835,Sub-Saharan Africa
-Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,101.492537313433,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,87.6734008789062,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,94.4400329589844,Latin America & Caribbean
-Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,102.294822692871,Latin America & Caribbean
-Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,89.921989440918,Latin America & Caribbean
-Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,101.396278381348,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,54.0077896118164,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,17.1044540405273,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,103.033592224121,Latin America & Caribbean
-Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,103.015960693359,Latin America & Caribbean
-Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,50.0267486572266,Latin America & Caribbean
-Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,109.80850982666,Latin America & Caribbean
-Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,85.4934060936789,North America
-Bermuda,BMU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,22.4178009033203,North America
-Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,101.281065846785,North America
-Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,111.802101135254,North America
-Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,70.6271591186523,North America
-Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,98.7742080688477,North America
-United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,98.9523391723633,North America
-United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,88.1673889160156,North America
-United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,101.821441650391,North America
-Afghanistan,AFG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,57.0392990112305,South Asia
-Afghanistan,AFG,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,9.96378993988037,South Asia
-Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,107.780532836914,South Asia
-India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,75.7847900390625,South Asia
-India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,28.5316867828369,South Asia
-India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,101.097955965022,South Asia
-Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,37.7495130334641,South Asia
-Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,8.39241695404053,South Asia
-Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,82.0333064173511,South Asia
-Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,98.8223876953125,Europe & Central Asia
-Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,56.0802993774414,Europe & Central Asia
-Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,104.568023681641,Europe & Central Asia
-Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,129.849563598633,Europe & Central Asia
-Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,81.1405487060547,Europe & Central Asia
-Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,100.749008178711,Europe & Central Asia
-France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,103.773330688477,Europe & Central Asia
-France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,67.5435180664062,Europe & Central Asia
-France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,102.464408874512,Europe & Central Asia
-Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,95.4997177124023,Europe & Central Asia
-Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,84.5396423339844,Europe & Central Asia
-Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,96.7058029174805,Europe & Central Asia
-Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,86.5577163696289,Europe & Central Asia
-Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,51.9943504333496,Europe & Central Asia
-Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,91.3751220703125,Europe & Central Asia
-Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,53.1637001037598,Middle East & North Africa
-Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,108.703483581543,Middle East & North Africa
-Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,96.6557464599609,Middle East & North Africa
-Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,57.3934288024902,Middle East & North Africa
-Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,96.4932327270508,Middle East & North Africa
-Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,31.1403503417969,Middle East & North Africa
-Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,106.200668334961,Middle East & North Africa
-China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,54.0076217651367,East Asia & Pacific
-China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,98.1703567504883,East Asia & Pacific
-Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,82.0352410959823,East Asia & Pacific
-Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,29.428638458252,East Asia & Pacific
-Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,98.0921404522994,East Asia & Pacific
-Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,93.4309363897896,East Asia & Pacific
-Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,36.7954559326172,East Asia & Pacific
-Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,104.648287253309,East Asia & Pacific
-Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,102.425148010254,East Asia & Pacific
-Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,62.2089385986328,East Asia & Pacific
-Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,102.099906921387,East Asia & Pacific
-Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,9.35254287719727,Unknown
-Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,88.5748689656161,Unknown
-Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,42.1684494018555,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,11.8107748031616,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,84.6760635375977,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,37.6615683388653,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,7.59974813461304,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,100.920007512738,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,8.42511940002441,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,97.879271089427,Sub-Saharan Africa
-Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,86.6602401733398,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,97.2939224243164,Latin America & Caribbean
-Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,103.173049926758,Latin America & Caribbean
-Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,91.1974792480469,Latin America & Caribbean
-Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,101.538017272949,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,54.1130104064941,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,17.5163669586182,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,103.577819824219,Latin America & Caribbean
-Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,105.00707244873,Latin America & Caribbean
-Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,51.1916885375977,Latin America & Caribbean
-Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,108.623291015625,Latin America & Caribbean
-Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,86.1054994388328,North America
-Bermuda,BMU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,22.8644790649414,North America
-Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,98.2934284258788,North America
-Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,111.452972412109,North America
-Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,69.5775985717773,North America
-Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,99.0210189819336,North America
-United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,99.2755813598633,North America
-United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,88.2991790771484,North America
-United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,101.256561279297,North America
-Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,110.007507324219,South Asia
-India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,75.5255813598633,South Asia
-India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,29.0233592987061,South Asia
-India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,99.5039236144817,South Asia
-Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,39.6166540049859,South Asia
-Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,11.3472347259521,South Asia
-Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,83.1845752333307,South Asia
-Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,99.0151519775391,Europe & Central Asia
-Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,61.4085083007812,Europe & Central Asia
-Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,102.589538574219,Europe & Central Asia
-Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,129.311126708984,Europe & Central Asia
-Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,81.6945877075195,Europe & Central Asia
-Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,100.551002502441,Europe & Central Asia
-France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,104.07689666748,Europe & Central Asia
-France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,67.7331314086914,Europe & Central Asia
-France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,102.447647094727,Europe & Central Asia
-Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,94.9205322265625,Europe & Central Asia
-Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,80.1720199584961,Europe & Central Asia
-Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,95.6502075195312,Europe & Central Asia
-Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,86.4074096679688,Europe & Central Asia
-Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,52.4439697265625,Europe & Central Asia
-Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,92.6139984130859,Europe & Central Asia
-Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,54.1856307983398,Middle East & North Africa
-Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,107.775131225586,Middle East & North Africa
-Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,96.2954177856445,Middle East & North Africa
-Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,55.9445381164551,Middle East & North Africa
-Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,96.2709274291992,Middle East & North Africa
-Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,31.8208293914795,Middle East & North Africa
-China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,57.2754402160645,East Asia & Pacific
-China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,98.2354125976562,East Asia & Pacific
-Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,87.5707840643522,East Asia & Pacific
-Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,31.2367649078369,East Asia & Pacific
-Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,95.9793329033507,East Asia & Pacific
-Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,95.7836905704493,East Asia & Pacific
-Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,37.925968170166,East Asia & Pacific
-Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,102.597018482181,East Asia & Pacific
-Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,102.670066833496,East Asia & Pacific
-Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,62.1184997558594,East Asia & Pacific
-Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,102.652282714844,East Asia & Pacific
-Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,11.0613594055176,Unknown
-Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,83.2573913283786,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,37.9919232403293,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,6.84396314620972,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,98.1418277224069,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,9.99564361572266,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,97.4766143857125,Sub-Saharan Africa
-Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,89.376953125,Latin America & Caribbean
-Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,89.9956130981445,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,87.9186782836914,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,93.3932723999023,Latin America & Caribbean
-Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,104.405769348145,Latin America & Caribbean
-Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,92.0659713745117,Latin America & Caribbean
-Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,101.193206787109,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,52.6072883605957,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,22.6505107879639,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,103.427291870117,Latin America & Caribbean
-Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,103.953277587891,Latin America & Caribbean
-Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,52.6240615844727,Latin America & Caribbean
-Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,107.407470703125,Latin America & Caribbean
-Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,81.5482735869804,North America
-Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,94.0862944162437,North America
-Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,110.858299255371,North America
-Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,72.8150634765625,North America
-Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,97.7884292602539,North America
-United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,100.063430786133,North America
-United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,87.8887100219727,North America
-United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,100.981300354004,North America
-Afghanistan,AFG,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,10.8584403991699,South Asia
-India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,77.6271551845716,South Asia
-India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,29.8196392059326,South Asia
-India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,101.291253449929,South Asia
-Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,11.944239616394,South Asia
-Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,95.9294509887695,Europe & Central Asia
-Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,61.5853004455566,Europe & Central Asia
-Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,100.020973205566,Europe & Central Asia
-Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,129.995193481445,Europe & Central Asia
-Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,82.6643295288086,Europe & Central Asia
-Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,100.459587097168,Europe & Central Asia
-France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,104.566566467285,Europe & Central Asia
-France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,68.8709411621094,Europe & Central Asia
-France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,102.651626586914,Europe & Central Asia
-Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,95.0074691772461,Europe & Central Asia
-Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,76.8908920288086,Europe & Central Asia
-Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,94.4190673828125,Europe & Central Asia
-Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,86.416877746582,Europe & Central Asia
-Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,53.4911117553711,Europe & Central Asia
-Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,91.9047393798828,Europe & Central Asia
-Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,53.6140289306641,Middle East & North Africa
-Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,110.33056640625,Middle East & North Africa
-Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,96.1416931152344,Middle East & North Africa
-Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,56.4272193908691,Middle East & North Africa
-Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,96.3747634887695,Middle East & North Africa
-Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,33.1319389343262,Middle East & North Africa
-Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,105.254287719727,Middle East & North Africa
-China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,62.2367782592773,East Asia & Pacific
-China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,99.0244293212891,East Asia & Pacific
-Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,89.2450874983032,East Asia & Pacific
-Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,32.8472557067871,East Asia & Pacific
-Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,95.7995145963986,East Asia & Pacific
-Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,98.0443013603661,East Asia & Pacific
-Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,38.6503868103027,East Asia & Pacific
-Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,102.437991856992,East Asia & Pacific
-Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,102.844802856445,East Asia & Pacific
-Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,62.1358413696289,East Asia & Pacific
-Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,102.736831665039,East Asia & Pacific
-Liberia,LBR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,37.8051300048828,Sub-Saharan Africa
-Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,72.9198522298742,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,45.889949798584,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,87.3721008300781,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,37.3931079993499,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,5.77144193649292,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,101.725708007812,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,9.72360515594482,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,97.3841623798408,Sub-Saharan Africa
-Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,87.2360000610352,Latin America & Caribbean
-Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,91.7111511230469,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,85.1645812988281,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,89.8730773925781,Latin America & Caribbean
-Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,103.691688537598,Latin America & Caribbean
-Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,89.1124877929688,Latin America & Caribbean
-Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,99.7043991088867,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,51.9058113098145,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,18.6944980621338,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,102.135482788086,Latin America & Caribbean
-Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,104.125999450684,Latin America & Caribbean
-Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,54.5727996826172,Latin America & Caribbean
-Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,105.498199462891,Latin America & Caribbean
-Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,80.4474080447408,North America
-Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,90.4895461499235,North America
-Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,110.079071044922,North America
-Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,74.1571426391602,North America
-Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,97.7384185791016,North America
-United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,100.509819030762,North America
-United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,87.5676574707031,North America
-United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,100.305793762207,North America
-India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,80.6246396929286,South Asia
-India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,31.5741767883301,South Asia
-India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,102.316123319201,South Asia
-Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,41.8552345316015,South Asia
-Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,12.5983591079712,South Asia
-Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,84.3684597161784,South Asia
-Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,97.6650314331055,Europe & Central Asia
-Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,59.9698715209961,Europe & Central Asia
-Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,97.1074981689453,Europe & Central Asia
-Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,131.772018432617,Europe & Central Asia
-Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,83.982292175293,Europe & Central Asia
-Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,100.308418273926,Europe & Central Asia
-France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,104.522842407227,Europe & Central Asia
-France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,69.9397888183594,Europe & Central Asia
-France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,102.580406188965,Europe & Central Asia
-Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,95.2133865356445,Europe & Central Asia
-Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,73.9591369628906,Europe & Central Asia
-Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,94.5295486450195,Europe & Central Asia
-Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,86.1970901489258,Europe & Central Asia
-Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,55.2656097412109,Europe & Central Asia
-Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,90.7731704711914,Europe & Central Asia
-Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,54.2099914550781,Middle East & North Africa
-Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,106.995567321777,Middle East & North Africa
-Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,96.9270782470703,Middle East & North Africa
-Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,58.9942817687988,Middle East & North Africa
-Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,96.2489776611328,Middle East & North Africa
-Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,33.8982810974121,Middle East & North Africa
-Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,105.039703369141,Middle East & North Africa
-China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,67.3876190185547,East Asia & Pacific
-China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,99.4303970336914,East Asia & Pacific
-Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,87.131517608917,East Asia & Pacific
-Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,34.8456192016602,East Asia & Pacific
-Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,90.6099091855424,East Asia & Pacific
-Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,99.0968322828421,East Asia & Pacific
-Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,41.0022087097168,East Asia & Pacific
-Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,101.990710635544,East Asia & Pacific
-Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,102.155380249023,East Asia & Pacific
-Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,63.1702690124512,East Asia & Pacific
-Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,102.218322753906,East Asia & Pacific
-Angola,AGO,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,52.5437698364258,Unknown
-Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,88.8339920043945,Unknown
-Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,68.0120635177256,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,47.2372283935547,Sub-Saharan Africa
-Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,86.7234268188477,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,35.9549392998814,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,6.7185697555542,Sub-Saharan Africa
-Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,97.9625584241655,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,96.0151477769296,Sub-Saharan Africa
-Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,87.1714172363281,Latin America & Caribbean
-Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,92.4860687255859,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,87.2776412963867,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,90.6446075439453,Latin America & Caribbean
-Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,106.673522949219,Latin America & Caribbean
-Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,96.2227935791016,Latin America & Caribbean
-Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,99.3652267456055,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,48.3225402832031,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,103.809898376465,Latin America & Caribbean
-Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,106.651901245117,Latin America & Caribbean
-Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,56.8306198120117,Latin America & Caribbean
-Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,103.4716796875,Latin America & Caribbean
-Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,80.7231448391844,North America
-Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,87.7107818088912,North America
-Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,109.334312438965,North America
-Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,77.8022918701172,North America
-Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,96.293083190918,North America
-United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,101.192489624023,North America
-United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,84.8550872802734,North America
-United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,98.3054885864258,North America
-India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,81.1778611796872,South Asia
-India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,32.6703071594238,South Asia
-India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,111.084455603874,South Asia
-Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,42.3586853238267,South Asia
-Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,10.6203098297119,South Asia
-Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,82.6790063159857,South Asia
-Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,97.3224716186523,Europe & Central Asia
-Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,62.6479187011719,Europe & Central Asia
-Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,96.3712310791016,Europe & Central Asia
-Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,130.326995849609,Europe & Central Asia
-Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,84.5866088867188,Europe & Central Asia
-Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,100.244453430176,Europe & Central Asia
-France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,104.256248474121,Europe & Central Asia
-France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,71.4203109741211,Europe & Central Asia
-France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,102.720581054688,Europe & Central Asia
-Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,94.5358963012695,Europe & Central Asia
-Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,70.8675689697266,Europe & Central Asia
-Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,94.7119674682617,Europe & Central Asia
-Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,83.0334701538086,Europe & Central Asia
-Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,58.2390403747559,Europe & Central Asia
-Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,84.8812789916992,Europe & Central Asia
-Algeria,DZA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,105.932548522949,Middle East & North Africa
-Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,53.4012489318848,Middle East & North Africa
-Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,108.343933105469,Middle East & North Africa
-Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,96.5853729248047,Middle East & North Africa
-Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,57.6379203796387,Middle East & North Africa
-Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,96.3125686645508,Middle East & North Africa
-Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,37.8049087524414,Middle East & North Africa
-Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,103.912643432617,Middle East & North Africa
-China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,71.9815521240234,East Asia & Pacific
-China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,100.171730041504,East Asia & Pacific
-Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,93.6653339656569,East Asia & Pacific
-Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,39.5887565612793,East Asia & Pacific
-Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,91.8715546202869,East Asia & Pacific
-Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,98.9717306316633,East Asia & Pacific
-Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,42.6331672668457,East Asia & Pacific
-Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,100.64499288828,East Asia & Pacific
-Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,102.337966918945,East Asia & Pacific
-Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,64.6288299560547,East Asia & Pacific
-Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,102.158706665039,East Asia & Pacific
-Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,86.7067961582083,Unknown
-Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,67.2317884233233,Sub-Saharan Africa
-Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,95.789907037216,Sub-Saharan Africa
-Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,86.9956817626953,Latin America & Caribbean
-Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,91.8765411376953,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,83.871467590332,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,90.7408676147461,Latin America & Caribbean
-Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,106.068328857422,Latin America & Caribbean
-Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,99.3372802734375,Latin America & Caribbean
-Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,100.192268371582,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,46.1119003295898,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,103.906227111816,Latin America & Caribbean
-Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,106.031188964844,Latin America & Caribbean
-Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,60.3906211853027,Latin America & Caribbean
-Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,103.970321655273,Latin America & Caribbean
-Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,75.8450123660346,North America
-Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,85.4245880861851,North America
-Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,108.613220214844,North America
-Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,77.3137588500977,North America
-Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,96.0115737915039,North America
-United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,97.4734878540039,North America
-United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,79.361930847168,North America
-United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,96.9717330932617,North America
-India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,78.863958593161,South Asia
-India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,33.1165237426758,South Asia
-India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,112.03123091725,South Asia
-Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,11.2206001281738,South Asia
-Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,96.1368789672852,Europe & Central Asia
-Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,64.7293472290039,Europe & Central Asia
-Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,93.7138137817383,Europe & Central Asia
-Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,93.5995101928711,Europe & Central Asia
-Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,67.0620422363281,Europe & Central Asia
-Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,94.7357864379883,Europe & Central Asia
-Algeria,DZA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,102.7021484375,Middle East & North Africa
-Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,55.5188903808594,Middle East & North Africa
-Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,108.761642456055,Middle East & North Africa
-Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,38.4501686096191,Middle East & North Africa
-Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,103.529930114746,Middle East & North Africa
-China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,74.823600769043,East Asia & Pacific
-China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,99.323860168457,East Asia & Pacific
-Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,92.8650157810305,East Asia & Pacific
-Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,45.2818946838379,East Asia & Pacific
-Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,93.4089524875128,East Asia & Pacific
-Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,97.1654711118149,East Asia & Pacific
-Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,45.1352272033691,East Asia & Pacific
-Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,100.228106588191,East Asia & Pacific
-Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,9.91084957122803,Unknown
-Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,86.1783905029297,Latin America & Caribbean
-Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,89.8830871582031,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,86.4048004150391,Latin America & Caribbean
-Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,84.4617080688477,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,47.6308784484863,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,27.2776298522949,Latin America & Caribbean
-Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,103.04638671875,Latin America & Caribbean
-Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,71.8350524902344,North America
-Bermuda,BMU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,16.992130279541,North America
-Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,86.3020706176758,North America
+Afghanistan,AFG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,54.23548126,South Asia
+Afghanistan,AFG,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,8.310870171,South Asia
+Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,109.1155167,South Asia
+India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,75.31832886,South Asia
+India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,25.99132538,South Asia
+India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,111.5845413,South Asia
+Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,33.21422276,South Asia
+Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,8.926431656,South Asia
+Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,74.31890185,South Asia
+Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,103.3213806,Europe & Central Asia
+Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,65.55071259,Europe & Central Asia
+Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,105.7705765,Europe & Central Asia
+Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,132.451355,Europe & Central Asia
+Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,81.31436157,Europe & Central Asia
+Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,101.1769409,Europe & Central Asia
+France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,103.425827,Europe & Central Asia
+France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,61.51047897,Europe & Central Asia
+France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,101.2803497,Europe & Central Asia
+Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,98.98171234,Europe & Central Asia
+Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,99.8547287,Europe & Central Asia
+Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,95.13053131,Europe & Central Asia
+Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,93.53399658,Europe & Central Asia
+Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,51.09503937,Europe & Central Asia
+Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,36.06224823,Middle East & North Africa
+Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,111.6866989,Middle East & North Africa
+Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,96.32904053,Middle East & North Africa
+Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,62.10562897,Middle East & North Africa
+Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,97.28829956,Middle East & North Africa
+Tunisia,TUN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,85.84152222,Middle East & North Africa
+Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,33.08256912,Middle East & North Africa
+Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,105.9014816,Middle East & North Africa
+China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,43.8821907,East Asia & Pacific
+China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,97.94850159,East Asia & Pacific
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,86.13524007,East Asia & Pacific
+Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,35.95505905,East Asia & Pacific
+Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,109.6715166,East Asia & Pacific
+Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,84.68815168,East Asia & Pacific
+Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,30.52533913,East Asia & Pacific
+Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,110.9105784,East Asia & Pacific
+Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,101.8139801,East Asia & Pacific
+Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,62.72698975,East Asia & Pacific
+Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,102.4152832,East Asia & Pacific
+Liberia,LBR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,37.14178085,Sub-Saharan Africa
+Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,92.67403387,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,44.51475143,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,87.44564056,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,38.90892029,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,10.8913002,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,96.16107178,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,102.4222074,Sub-Saharan Africa
+Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,100.7830582,Latin America & Caribbean
+Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,108.9017792,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,87.79489136,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,96.38572693,Latin America & Caribbean
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,99.86544037,Latin America & Caribbean
+Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,83.66297913,Latin America & Caribbean
+Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,101.9308701,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,53.08995819,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,18.34909058,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,105.4326324,Latin America & Caribbean
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,102.6355286,Latin America & Caribbean
+Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,47.1568718,Latin America & Caribbean
+Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,110.3164597,Latin America & Caribbean
+Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,90.55310059,North America
+Bermuda,BMU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,35.09661102,North America
+Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,104.4319916,North America
+Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,111.8559113,North America
+Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,67.2278595,North America
+Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,99.49904633,North America
+United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,96.92453766,North America
+United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2014,88.6268692,North America
+United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2014,99.67337799,North America
+Afghanistan,AFG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,53.28514099,South Asia
+Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,106.1824188,South Asia
+India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,74.94833374,South Asia
+India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,27.28456688,South Asia
+India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,112.9378433,South Asia
+Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,35.17425222,South Asia
+Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,8.611710548,South Asia
+Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,74.84799088,South Asia
+Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,102.4407272,Europe & Central Asia
+Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,61.96084976,Europe & Central Asia
+Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,105.688652,Europe & Central Asia
+Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,133.7954712,Europe & Central Asia
+Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,83.30040741,Europe & Central Asia
+Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,100.8821411,Europe & Central Asia
+France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,103.3960419,Europe & Central Asia
+France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,62.78593063,Europe & Central Asia
+France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,101.9896393,Europe & Central Asia
+Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,97.52033234,Europe & Central Asia
+Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,98.0328598,Europe & Central Asia
+Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,96.05220032,Europe & Central Asia
+Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,91.33770752,Europe & Central Asia
+Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,49.36098862,Europe & Central Asia
+Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,89.05341339,Europe & Central Asia
+Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,38.33097839,Middle East & North Africa
+Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,110.8422699,Middle East & North Africa
+Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,96.33895111,Middle East & North Africa
+Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,60.82278824,Middle East & North Africa
+Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,97.7587738,Middle East & North Africa
+Tunisia,TUN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,86.76495361,Middle East & North Africa
+Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,33.05807877,Middle East & North Africa
+Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,106.1118317,Middle East & North Africa
+China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,47.43537903,East Asia & Pacific
+China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,97.15444183,East Asia & Pacific
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,86.64094709,East Asia & Pacific
+Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,38.10377502,East Asia & Pacific
+Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,108.6643951,East Asia & Pacific
+Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,88.78228771,East Asia & Pacific
+Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,33.03264999,East Asia & Pacific
+Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,109.3619806,East Asia & Pacific
+Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,102.2004166,East Asia & Pacific
+Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,62.47266006,East Asia & Pacific
+Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,102.4191132,East Asia & Pacific
+Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,8.683790207,Sub-Saharan Africa
+Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,119.1422577,Sub-Saharan Africa
+Liberia,LBR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,36.62308121,Sub-Saharan Africa
+Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,90.18297391,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,45.60858154,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,83.74982706,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,35.65806449,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,8.703927994,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,89.74539965,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,10.60087013,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,101.5210505,Sub-Saharan Africa
+Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,93.76158905,Latin America & Caribbean
+Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,102.3359985,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,87.49781036,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,26.41311073,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,95.22531891,Latin America & Caribbean
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,100.9216766,Latin America & Caribbean
+Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,86.41811371,Latin America & Caribbean
+Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,101.7125092,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,54.91804886,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,22.06971931,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,104.0998535,Latin America & Caribbean
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,100.920517,Latin America & Caribbean
+Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,48.43404007,Latin America & Caribbean
+Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,109.1521835,Latin America & Caribbean
+Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,90.52207184,North America
+Bermuda,BMU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,31.94352913,North America
+Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,105.5753632,North America
+Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,111.9304504,North America
+Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,67.40316772,North America
+Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,99.84114075,North America
+United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,97.65254974,North America
+United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2015,88.88941193,North America
+United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2015,100.2999115,North America
+Afghanistan,AFG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,53.50634003,South Asia
+Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,106.1502838,South Asia
+India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,76.11998749,South Asia
+India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,27.30435753,South Asia
+India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,119.5128326,South Asia
+Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,36.35336799,South Asia
+Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,8.478245735,South Asia
+Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,79.8399702,South Asia
+Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,99.17076111,Europe & Central Asia
+Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,58.48847961,Europe & Central Asia
+Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,105.3247833,Europe & Central Asia
+Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,131.4412994,Europe & Central Asia
+Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,82.17149353,Europe & Central Asia
+Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,101.0414963,Europe & Central Asia
+France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,103.3080978,Europe & Central Asia
+France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,64.72767639,Europe & Central Asia
+France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,102.2604294,Europe & Central Asia
+Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,97.04808807,Europe & Central Asia
+Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,94.75534058,Europe & Central Asia
+Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,97.34745789,Europe & Central Asia
+Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,88.7795105,Europe & Central Asia
+Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,49.91131973,Europe & Central Asia
+Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,87.58959198,Europe & Central Asia
+Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,44.10528946,Middle East & North Africa
+Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,110.6881027,Middle East & North Africa
+Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,96.79280853,Middle East & North Africa
+Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,60.4474411,Middle East & North Africa
+Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,97.13448334,Middle East & North Africa
+Tunisia,TUN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,91.17043304,Middle East & North Africa
+Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,31.18655968,Middle East & North Africa
+Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,106.1781616,Middle East & North Africa
+China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,49.70835876,East Asia & Pacific
+China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,97.39061737,East Asia & Pacific
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,87.1297235,East Asia & Pacific
+Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,40.48574829,East Asia & Pacific
+Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,106.2157413,East Asia & Pacific
+Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,88.56449209,East Asia & Pacific
+Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,35.47575378,East Asia & Pacific
+Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,107.1620738,East Asia & Pacific
+Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,101.1679993,East Asia & Pacific
+Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,63.18722916,East Asia & Pacific
+Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,102.2169113,East Asia & Pacific
+Angola,AGO,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,53.58145142,Sub-Saharan Africa
+Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,9.660340309,Sub-Saharan Africa
+Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,107.0269649,Sub-Saharan Africa
+Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,84.15110095,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,40.91020966,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,81.91616821,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,36.84758185,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,8.637948036,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,94.3621521,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,7.926105976,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,100.0310764,Sub-Saharan Africa
+Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,102.3909378,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,91.16915131,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,94.33110046,Latin America & Caribbean
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,101.4881363,Latin America & Caribbean
+Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,88.84588623,Latin America & Caribbean
+Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,101.5851898,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,54.37519073,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,16.12379265,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,103.0138931,Latin America & Caribbean
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,102.5695114,Latin America & Caribbean
+Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,48.33333969,Latin America & Caribbean
+Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,108.757843,Latin America & Caribbean
+Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,89.70454545,North America
+Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,104.3255695,North America
+Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,111.7702866,North America
+Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,69.50685883,North America
+Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,98.54702759,North America
+United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,98.76992798,North America
+United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2016,88.83505249,North America
+United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2016,101.3628616,North America
+Afghanistan,AFG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,55.4021492,South Asia
+Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,106.1299973,South Asia
+India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,74.59726715,South Asia
+India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,27.9090519,South Asia
+India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,117.8681717,South Asia
+Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,35.85267618,South Asia
+Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,8.800550461,South Asia
+Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,78.84305835,South Asia
+Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,97.57437134,Europe & Central Asia
+Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,58.0177803,Europe & Central Asia
+Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,105.4149704,Europe & Central Asia
+Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,130.3244324,Europe & Central Asia
+Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,81.32200623,Europe & Central Asia
+Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,100.7780304,Europe & Central Asia
+France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,103.7560806,Europe & Central Asia
+France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,65.80223083,Europe & Central Asia
+France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,102.4172211,Europe & Central Asia
+Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,96.01177216,Europe & Central Asia
+Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,91.32614899,Europe & Central Asia
+Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,97.40283203,Europe & Central Asia
+Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,88.38432312,Europe & Central Asia
+Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,50.51081848,Europe & Central Asia
+Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,87.2723999,Europe & Central Asia
+Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,49.37791061,Middle East & North Africa
+Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,109.8377075,Middle East & North Africa
+Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,96.29299164,Middle East & North Africa
+Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,59.06586838,Middle East & North Africa
+Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,96.93186951,Middle East & North Africa
+Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,31.01753044,Middle East & North Africa
+Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,106.5720291,Middle East & North Africa
+China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,51.5827713,East Asia & Pacific
+China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,97.92211914,East Asia & Pacific
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,84.50405884,East Asia & Pacific
+Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,35.40542603,East Asia & Pacific
+Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,103.1825504,East Asia & Pacific
+Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,91.5816468,East Asia & Pacific
+Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,36.63386154,East Asia & Pacific
+Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,105.6342322,East Asia & Pacific
+Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,101.8828888,East Asia & Pacific
+Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,62.46297836,East Asia & Pacific
+Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,102.2548294,East Asia & Pacific
+Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,9.65568924,Sub-Saharan Africa
+Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,122.2351662,Sub-Saharan Africa
+Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,79.927302,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,11.57855129,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,76.46309922,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,8.52771759,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,99.89538807,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,8.542076111,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,98.54510309,Sub-Saharan Africa
+Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,101.4925373,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,87.67340088,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,94.44003296,Latin America & Caribbean
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,102.2948227,Latin America & Caribbean
+Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,89.92198944,Latin America & Caribbean
+Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,101.3962784,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,54.00778961,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,17.10445404,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,103.0335922,Latin America & Caribbean
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,103.0159607,Latin America & Caribbean
+Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,50.02674866,Latin America & Caribbean
+Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,109.8085098,Latin America & Caribbean
+Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,85.49340609,North America
+Bermuda,BMU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,22.4178009,North America
+Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,101.2810658,North America
+Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,111.8021011,North America
+Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,70.62715912,North America
+Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,98.77420807,North America
+United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,98.95233917,North America
+United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2017,88.16738892,North America
+United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2017,101.8214417,North America
+Afghanistan,AFG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,57.03929901,South Asia
+Afghanistan,AFG,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,9.96378994,South Asia
+Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,107.7805328,South Asia
+India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,75.78479004,South Asia
+India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,28.53168678,South Asia
+India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,101.097956,South Asia
+Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,37.74951303,South Asia
+Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,8.392416954,South Asia
+Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,82.03330642,South Asia
+Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,98.8223877,Europe & Central Asia
+Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,56.08029938,Europe & Central Asia
+Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,104.5680237,Europe & Central Asia
+Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,129.8495636,Europe & Central Asia
+Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,81.14054871,Europe & Central Asia
+Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,100.7490082,Europe & Central Asia
+France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,103.7733307,Europe & Central Asia
+France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,67.54351807,Europe & Central Asia
+France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,102.4644089,Europe & Central Asia
+Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,95.49971771,Europe & Central Asia
+Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,84.53964233,Europe & Central Asia
+Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,96.70580292,Europe & Central Asia
+Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,86.55771637,Europe & Central Asia
+Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,51.99435043,Europe & Central Asia
+Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,91.37512207,Europe & Central Asia
+Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,53.1637001,Middle East & North Africa
+Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,108.7034836,Middle East & North Africa
+Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,96.65574646,Middle East & North Africa
+Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,57.3934288,Middle East & North Africa
+Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,96.49323273,Middle East & North Africa
+Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,31.14035034,Middle East & North Africa
+Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,106.2006683,Middle East & North Africa
+China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,54.00762177,East Asia & Pacific
+China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,98.17035675,East Asia & Pacific
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,82.0352411,East Asia & Pacific
+Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,29.42863846,East Asia & Pacific
+Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,98.09214045,East Asia & Pacific
+Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,93.43093639,East Asia & Pacific
+Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,36.79545593,East Asia & Pacific
+Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,104.6482873,East Asia & Pacific
+Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,102.425148,East Asia & Pacific
+Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,62.2089386,East Asia & Pacific
+Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,102.0999069,East Asia & Pacific
+Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,9.352542877,Sub-Saharan Africa
+Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,88.57486897,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,42.1684494,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,11.8107748,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,84.67606354,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,37.66156834,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,7.599748135,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,100.9200075,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,8.4251194,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,97.87927109,Sub-Saharan Africa
+Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,86.66024017,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,97.29392242,Latin America & Caribbean
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,103.1730499,Latin America & Caribbean
+Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,91.19747925,Latin America & Caribbean
+Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,101.5380173,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,54.11301041,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,17.51636696,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,103.5778198,Latin America & Caribbean
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,105.0070724,Latin America & Caribbean
+Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,51.19168854,Latin America & Caribbean
+Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,108.623291,Latin America & Caribbean
+Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,86.10549944,North America
+Bermuda,BMU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,22.86447906,North America
+Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,98.29342843,North America
+Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,111.4529724,North America
+Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,69.57759857,North America
+Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,99.02101898,North America
+United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,99.27558136,North America
+United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2018,88.29917908,North America
+United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2018,101.2565613,North America
+Afghanistan,AFG,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,110.0075073,South Asia
+India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,75.52558136,South Asia
+India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,29.0233593,South Asia
+India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,99.50392361,South Asia
+Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,39.616654,South Asia
+Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,11.34723473,South Asia
+Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,83.18457523,South Asia
+Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,99.01515198,Europe & Central Asia
+Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,61.4085083,Europe & Central Asia
+Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,102.5895386,Europe & Central Asia
+Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,129.3111267,Europe & Central Asia
+Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,81.69458771,Europe & Central Asia
+Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,100.5510025,Europe & Central Asia
+France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,104.0768967,Europe & Central Asia
+France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,67.73313141,Europe & Central Asia
+France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,102.4476471,Europe & Central Asia
+Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,94.92053223,Europe & Central Asia
+Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,80.17201996,Europe & Central Asia
+Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,95.65020752,Europe & Central Asia
+Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,86.40740967,Europe & Central Asia
+Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,52.44396973,Europe & Central Asia
+Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,92.61399841,Europe & Central Asia
+Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,54.1856308,Middle East & North Africa
+Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,107.7751312,Middle East & North Africa
+Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,96.29541779,Middle East & North Africa
+Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,55.94453812,Middle East & North Africa
+Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,96.27092743,Middle East & North Africa
+Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,31.82082939,Middle East & North Africa
+China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,57.27544022,East Asia & Pacific
+China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,98.2354126,East Asia & Pacific
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,87.57078406,East Asia & Pacific
+Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,31.23676491,East Asia & Pacific
+Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,95.9793329,East Asia & Pacific
+Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,95.78369057,East Asia & Pacific
+Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,37.92596817,East Asia & Pacific
+Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,102.5970185,East Asia & Pacific
+Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,102.6700668,East Asia & Pacific
+Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,62.11849976,East Asia & Pacific
+Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,102.6522827,East Asia & Pacific
+Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,11.06135941,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,83.25739133,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,37.99192324,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,6.843963146,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,98.14182772,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,9.995643616,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,97.47661439,Sub-Saharan Africa
+Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,89.37695313,Latin America & Caribbean
+Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,89.9956131,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,87.91867828,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,93.3932724,Latin America & Caribbean
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,104.4057693,Latin America & Caribbean
+Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,92.06597137,Latin America & Caribbean
+Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,101.1932068,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,52.60728836,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,22.65051079,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,103.4272919,Latin America & Caribbean
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,103.9532776,Latin America & Caribbean
+Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,52.62406158,Latin America & Caribbean
+Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,107.4074707,Latin America & Caribbean
+Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,81.54827359,North America
+Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,94.08629442,North America
+Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,110.8582993,North America
+Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,72.81506348,North America
+Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,97.78842926,North America
+United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,100.0634308,North America
+United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2019,87.88871002,North America
+United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2019,100.9813004,North America
+Afghanistan,AFG,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,10.8584404,South Asia
+India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,77.62715518,South Asia
+India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,29.81963921,South Asia
+India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,101.2912534,South Asia
+Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,11.94423962,South Asia
+Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,95.92945099,Europe & Central Asia
+Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,61.58530045,Europe & Central Asia
+Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,100.0209732,Europe & Central Asia
+Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,129.9951935,Europe & Central Asia
+Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,82.66432953,Europe & Central Asia
+Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,100.4595871,Europe & Central Asia
+France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,104.5665665,Europe & Central Asia
+France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,68.87094116,Europe & Central Asia
+France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,102.6516266,Europe & Central Asia
+Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,95.00746918,Europe & Central Asia
+Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,76.89089203,Europe & Central Asia
+Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,94.41906738,Europe & Central Asia
+Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,86.41687775,Europe & Central Asia
+Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,53.49111176,Europe & Central Asia
+Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,91.90473938,Europe & Central Asia
+Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,53.61402893,Middle East & North Africa
+Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,110.3305664,Middle East & North Africa
+Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,96.14169312,Middle East & North Africa
+Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,56.42721939,Middle East & North Africa
+Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,96.37476349,Middle East & North Africa
+Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,33.13193893,Middle East & North Africa
+Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,105.2542877,Middle East & North Africa
+China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,62.23677826,East Asia & Pacific
+China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,99.02442932,East Asia & Pacific
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,89.2450875,East Asia & Pacific
+Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,32.84725571,East Asia & Pacific
+Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,95.7995146,East Asia & Pacific
+Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,98.04430136,East Asia & Pacific
+Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,38.65038681,East Asia & Pacific
+Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,102.4379919,East Asia & Pacific
+Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,102.8448029,East Asia & Pacific
+Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,62.13584137,East Asia & Pacific
+Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,102.7368317,East Asia & Pacific
+Liberia,LBR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,37.80513,Sub-Saharan Africa
+Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,72.91985223,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,45.8899498,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,87.37210083,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,37.393108,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,5.771441936,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,101.725708,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,9.723605156,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,97.38416238,Sub-Saharan Africa
+Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,87.23600006,Latin America & Caribbean
+Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,91.71115112,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,85.1645813,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,89.87307739,Latin America & Caribbean
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,103.6916885,Latin America & Caribbean
+Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,89.11248779,Latin America & Caribbean
+Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,99.70439911,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,51.90581131,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,18.69449806,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,102.1354828,Latin America & Caribbean
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,104.1259995,Latin America & Caribbean
+Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,54.57279968,Latin America & Caribbean
+Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,105.4981995,Latin America & Caribbean
+Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,80.44740804,North America
+Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,90.48954615,North America
+Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,110.079071,North America
+Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,74.15714264,North America
+Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,97.73841858,North America
+United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,100.509819,North America
+United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2020,87.56765747,North America
+United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2020,100.3057938,North America
+India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,80.62463969,South Asia
+India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,31.57417679,South Asia
+India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,102.3161233,South Asia
+Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,41.85523453,South Asia
+Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,12.59835911,South Asia
+Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,84.36845972,South Asia
+Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,97.66503143,Europe & Central Asia
+Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,59.96987152,Europe & Central Asia
+Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,97.10749817,Europe & Central Asia
+Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,131.7720184,Europe & Central Asia
+Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,83.98229218,Europe & Central Asia
+Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,100.3084183,Europe & Central Asia
+France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,104.5228424,Europe & Central Asia
+France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,69.93978882,Europe & Central Asia
+France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,102.5804062,Europe & Central Asia
+Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,95.21338654,Europe & Central Asia
+Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,73.95913696,Europe & Central Asia
+Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,94.52954865,Europe & Central Asia
+Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,86.19709015,Europe & Central Asia
+Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,55.26560974,Europe & Central Asia
+Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,90.77317047,Europe & Central Asia
+Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,54.20999146,Middle East & North Africa
+Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,106.9955673,Middle East & North Africa
+Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,96.92707825,Middle East & North Africa
+Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,58.99428177,Middle East & North Africa
+Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,96.24897766,Middle East & North Africa
+Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,33.8982811,Middle East & North Africa
+Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,105.0397034,Middle East & North Africa
+China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,67.38761902,East Asia & Pacific
+China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,99.43039703,East Asia & Pacific
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,87.13151761,East Asia & Pacific
+Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,34.8456192,East Asia & Pacific
+Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,90.60990919,East Asia & Pacific
+Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,99.09683228,East Asia & Pacific
+Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,41.00220871,East Asia & Pacific
+Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,101.9907106,East Asia & Pacific
+Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,102.1553802,East Asia & Pacific
+Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,63.17026901,East Asia & Pacific
+Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,102.2183228,East Asia & Pacific
+Angola,AGO,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,52.54376984,Sub-Saharan Africa
+Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,88.833992,Sub-Saharan Africa
+Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,68.01206352,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,47.23722839,Sub-Saharan Africa
+Nigeria,NGA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,86.72342682,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,35.9549393,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,6.718569756,Sub-Saharan Africa
+Guinea,GIN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,97.96255842,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,96.01514778,Sub-Saharan Africa
+Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,87.17141724,Latin America & Caribbean
+Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,92.48606873,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,87.2776413,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,90.64460754,Latin America & Caribbean
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,106.6735229,Latin America & Caribbean
+Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,96.22279358,Latin America & Caribbean
+Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,99.36522675,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,48.32254028,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,103.8098984,Latin America & Caribbean
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,106.6519012,Latin America & Caribbean
+Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,56.83061981,Latin America & Caribbean
+Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,103.4716797,Latin America & Caribbean
+Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,80.72314484,North America
+Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,87.71078181,North America
+Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,109.3343124,North America
+Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,77.80229187,North America
+Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,96.29308319,North America
+United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,101.1924896,North America
+United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2021,84.85508728,North America
+United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2021,98.30548859,North America
+India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,81.17786118,South Asia
+India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,32.67030716,South Asia
+India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,111.0844556,South Asia
+Pakistan,PAK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,42.35868532,South Asia
+Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,10.62030983,South Asia
+Pakistan,PAK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,82.67900632,South Asia
+Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,97.32247162,Europe & Central Asia
+Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,62.6479187,Europe & Central Asia
+Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,96.37123108,Europe & Central Asia
+Denmark,DNK,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,130.3269958,Europe & Central Asia
+Denmark,DNK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,84.58660889,Europe & Central Asia
+Denmark,DNK,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,100.2444534,Europe & Central Asia
+France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,104.2562485,Europe & Central Asia
+France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,71.42031097,Europe & Central Asia
+France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,102.7205811,Europe & Central Asia
+Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,94.5358963,Europe & Central Asia
+Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,70.86756897,Europe & Central Asia
+Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,94.71196747,Europe & Central Asia
+Romania,ROU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,83.03347015,Europe & Central Asia
+Romania,ROU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,58.23904037,Europe & Central Asia
+Romania,ROU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,84.88127899,Europe & Central Asia
+Algeria,DZA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,105.9325485,Middle East & North Africa
+Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,53.40124893,Middle East & North Africa
+Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,108.3439331,Middle East & North Africa
+Israel,ISR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,96.58537292,Middle East & North Africa
+Israel,ISR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,57.63792038,Middle East & North Africa
+Israel,ISR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,96.31256866,Middle East & North Africa
+Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,37.80490875,Middle East & North Africa
+Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,103.9126434,Middle East & North Africa
+China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,71.98155212,East Asia & Pacific
+China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,100.17173,East Asia & Pacific
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,93.66533397,East Asia & Pacific
+Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,39.58875656,East Asia & Pacific
+Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,91.87155462,East Asia & Pacific
+Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,98.97173063,East Asia & Pacific
+Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,42.63316727,East Asia & Pacific
+Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,100.6449929,East Asia & Pacific
+Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,102.3379669,East Asia & Pacific
+Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,64.62882996,East Asia & Pacific
+Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,102.1587067,East Asia & Pacific
+Angola,AGO,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,86.70679616,Sub-Saharan Africa
+Liberia,LBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,67.23178842,Sub-Saharan Africa
+Zimbabwe,ZWE,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,95.78990704,Sub-Saharan Africa
+Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,86.99568176,Latin America & Caribbean
+Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,91.87654114,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,83.87146759,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,90.74086761,Latin America & Caribbean
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,106.0683289,Latin America & Caribbean
+Chile,CHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,99.33728027,Latin America & Caribbean
+Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,100.1922684,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,46.11190033,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,103.9062271,Latin America & Caribbean
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,106.031189,Latin America & Caribbean
+Brazil,BRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,60.39062119,Latin America & Caribbean
+Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,103.9703217,Latin America & Caribbean
+Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,75.84501237,North America
+Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,85.42458809,North America
+Canada,CAN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,108.6132202,North America
+Canada,CAN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,77.31375885,North America
+Canada,CAN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,96.01157379,North America
+United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,97.47348785,North America
+United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2022,79.36193085,North America
+United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2022,96.97173309,North America
+India,IND,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,78.86395859,South Asia
+India,IND,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,33.11652374,South Asia
+India,IND,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,112.0312309,South Asia
+Pakistan,PAK,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,11.22060013,South Asia
+Albania,ALB,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,96.13687897,Europe & Central Asia
+Albania,ALB,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,64.72934723,Europe & Central Asia
+Albania,ALB,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,93.71381378,Europe & Central Asia
+Belarus,BLR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,93.59951019,Europe & Central Asia
+Belarus,BLR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,67.06204224,Europe & Central Asia
+Belarus,BLR,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,94.73578644,Europe & Central Asia
+Algeria,DZA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,102.7021484,Middle East & North Africa
+Algeria,DZA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,55.51889038,Middle East & North Africa
+Algeria,DZA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,108.7616425,Middle East & North Africa
+Tunisia,TUN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,38.45016861,Middle East & North Africa
+Tunisia,TUN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,103.5299301,Middle East & North Africa
+China,CHN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,74.82360077,East Asia & Pacific
+China,CHN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,99.32386017,East Asia & Pacific
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,92.86501578,East Asia & Pacific
+Philippines,PHL,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,45.28189468,East Asia & Pacific
+Philippines,PHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,93.40895249,East Asia & Pacific
+Indonesia,IDN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,97.16547111,East Asia & Pacific
+Indonesia,IDN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,45.1352272,East Asia & Pacific
+Indonesia,IDN,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,100.2281066,East Asia & Pacific
+Angola,AGO,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,9.910849571,Sub-Saharan Africa
+Dominica,DMA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,86.1783905,Latin America & Caribbean
+Dominica,DMA,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,89.88308716,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,86.40480042,Latin America & Caribbean
+Jamaica,JAM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,84.46170807,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,47.63087845,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,27.27762985,Latin America & Caribbean
+Guatemala,GTM,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,103.0463867,Latin America & Caribbean
+Bermuda,BMU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,71.83505249,North America
+Bermuda,BMU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,2023,16.99213028,North America
+Bermuda,BMU,"School enrollment, primary (% gross)",SE.PRM.ENRR,2023,86.30207062,North America
