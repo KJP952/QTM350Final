@@ -29,7 +29,7 @@ Primary Enrollment (% gross): Indicator code SE.PRM.ENRR. Secondary Enrollment (
 
 ```{python}
 import pandas as pd
-wdi_data = pd.read_csv("wdi_data_long.csv")
+wdi_data = pd.read_csv("wdi_data_with_region.csv")
 ```
 
 ## Global Trends in School Enrollment Over Time
