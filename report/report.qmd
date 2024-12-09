@@ -2,7 +2,7 @@
 title: "QTM 350 Final Project – School Enrollment Trends Analysis"
 author:
   - "Da Eun Kim (2483332)"
-  - "Alix Morales"
+  - "Alix Morales (2594298)"
   - "Katie Park (2563640)"
   - "Yoonsuh Park (2499926)"
 date: "December 9, 2024"
