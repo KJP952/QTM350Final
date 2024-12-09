@@ -1,0 +1,21 @@
+project:
+  type: default
+  title: "QTM 350 Final Project - School Enrollment Trends Analysis"
+  output-dir: final_report
+
+format:
+  pdf:
+    toc: true       # Include a table of contents
+    toc-depth: 2    # Show headings up to level 2
+    keep-tex: true  # Retain the intermediate LaTeX file
+  html:
+    theme: lux
+    code-fold: true
+    code-tools: true
+    number-sections: true
+    toc: true
+    toc-depth: 2
+    self-contained: true # Include all resources in the HTML output
+  docx:
+    toc: true
+
